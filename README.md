@@ -2,7 +2,7 @@
 The mechanism simulates the waves made by a drop when it hits a body of water.
 
 I chose to realize this project, applying what I learned this semester, because I found it interesting how we can simulate a basic phenomenon in a creative way.
-The mechanism simulates the waves made by a drop when it hits a body of water, being easy to understand from the tracking of the gif. By the rotational movement made by the axe, the rings simulate the shape of waves.
+The mechanism simulates the waves made by a drop when it hits a body of water. By the rotational movement made by the axe, the rings simulate the shape of waves.
 
 To design and render I used Fusion 360.
 Also, the components are made so that they can be printed.
